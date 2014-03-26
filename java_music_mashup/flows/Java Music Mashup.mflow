@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mule-configuration xmlns="http://www.mulesoft.com/tooling/messageflow" name="Java Music Mashup">
+    <flow SubFlow="false" name="Java_Music_MashupFlow1" entity-id="658fe76d-a3fe-4875-b273-eac9301aa0b4">
+        <lane isChoiceOtherwiseLane="false" index="0" hadOnlyOneElement="false" entity-id="e3eb266d-9b52-46bc-b2ff-0291f6973c61">
+            <graphicalData height="0" width="0" y="0" x="0"/>
+            <endpoint message-exchange-pattern="RequestResponse" direction="Inbound" type="http://www.mulesoft.org/schema/mule/https/endpoint" name="HTTP" entity-id="326120f3-a75c-4318-b1e4-4e0b1c3cf0e3">
+                <graphicalData height="169" width="68" y="120" x="19"/>
+                <properties>
+                    <property value="true" name="auxiliary;erased;mimeType"/>
+                    <property value="8081" name="port"/>
+                    <property value="" name="contentType"/>
+                    <property value="" name="password"/>
+                    <property value="request-response" name="exchange-pattern"/>
+                    <property value="false" name="tracking:enable-default-events"/>
+                    <property name="updated"/>
+                    <property value="true" name="auxiliary;erased;encoding"/>
+                    <property value="" name="encoding"/>
+                    <property value="" name="path"/>
+                    <property value="" name="responseTransformer-refs"/>
+                    <property value="10000" name="responseTimeout"/>
+                    <property value="" name="mimeType"/>
+                    <property value="true" name="auxiliary;erased;contentType"/>
+                    <property value="localhost" name="host"/>
+                    <property value="" name="businessEventsLabel"/>
+                    <property value="http://www.mulesoft.org/schema/mule/http/endpoint" name="org.mule.tooling.ui.modules.core.widgets.meta.ModeAttribute"/>
+                    <property value="false" name="keep-alive"/>
+                    <property value="false" name="disableTransportTransformer"/>
+                    <property value="" name="ref"/>
+                    <property value="" name="transformer-refs"/>
+                    <property value="" name="httpLabel"/>
+                    <property value="" name="address"/>
+                    <property value="" name="user"/>
+                    <property value="" name="connector-ref"/>
+                </properties>
+                <description></description>
+            </endpoint>
+            <pattern type="http://www.mulesoft.org/schema/mule/core/component" name="Java" entity-id="7c6b0bbb-1721-4e0a-a800-893711a39d22">
+                <graphicalData height="0" width="0" y="0" x="0"/>
+                <properties>
+                    <property value="" name="ref"/>
+                    <property name="updated"/>
+                    <property value="mash.MuleMasher" name="class"/>
+                    <property-collection name="@http://www.mulesoft.org/schema/mule/core/refInterceptorStackType;2019092140">
+                        <property value="" name="ref"/>
+                        <property value="true" name="isProcessed$$$$"/>
+                    </property-collection>
+                </properties>
+                <description></description>
+            </pattern>
+            <pattern type="http://www.mulesoft.org/schema/mule/core/echo-component" name="Echo" entity-id="dea23d47-e845-4cf0-827e-cd72ef4f7479">
+                <graphicalData height="67" width="68" y="120" x="147"/>
+            </pattern>
+        </lane>
+    </flow>
+    <description></description>
+</mule-configuration>

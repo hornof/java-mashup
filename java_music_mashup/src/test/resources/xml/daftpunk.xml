@@ -1,0 +1,268 @@
+<?xml version="1.0" standalone="yes"?>
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#" xmlns:ext="http://musicbrainz.org/ns/ext#-2.0" created="2014-03-22T18:45:54.509Z">
+<artist-list count="130" offset="0">
+    <artist id="056e4f3e-d505-4dad-8ec1-d04f521cbb56" type="Group" ext:score="100">
+        <name>Daft Punk</name>
+        <sort-name>Daft Punk</sort-name>
+        <country>FR</country>
+        <area id="08310658-51eb-3801-80de-5a0739207115">
+            <name>France</name>
+            <sort-name>France</sort-name>
+        </area>
+        <begin-area id="dc10c22b-e510-4006-8b7f-fecb4f36436e">
+            <name>Paris</name>
+            <sort-name>Paris</sort-name>
+        </begin-area>
+        <life-span>
+            <begin>1992</begin>
+            <ended>false</ended>
+        </life-span>
+        <alias-list>
+            <alias sort-name="Duft Punk">Duft Punk</alias>
+        </alias-list>
+        <tag-list>
+            <tag count="1">
+                <name>vocoder</name>
+            </tag>
+            <tag count="1">
+                <name>french house</name>
+            </tag>
+            <tag count="1">
+                <name>film score</name>
+            </tag>
+            <tag count="2">
+                <name>house</name>
+            </tag>
+            <tag count="1">
+                <name>wp musicians</name>
+            </tag>
+            <tag count="1">
+                <name>european</name>
+            </tag>
+            <tag count="1">
+                <name>dance and electronica</name>
+            </tag>
+            <tag count="3">
+                <name>electronic</name>
+            </tag>
+            <tag count="1">
+                <name>thomas bangalter</name>
+            </tag>
+            <tag count="3">
+                <name>french</name>
+            </tag>
+        </tag-list>
+    </artist>
+    <artist id="94a6fa68-561f-49f4-89c1-9bf22b60e928" ext:score="31">
+        <name>Daft DJ</name>
+        <sort-name>Daft DJ</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="b9d632b9-9819-4002-ac79-cee6606028eb" ext:score="31">
+        <name>Daft Pop</name>
+        <sort-name>Daft Pop</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="31d46c5c-dd28-4d65-beeb-6b70f3fdf569" ext:score="31">
+        <name>Daft Josh</name>
+        <sort-name>Josh, Daft</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="00ed6585-726c-4d21-9eec-f7548cb3a926" type="Group" ext:score="31">
+        <name>Daft Funk</name>
+        <sort-name>Daft Funk</sort-name>
+        <country>IE</country>
+        <area id="390b05d4-11ec-3bce-a343-703a366b34a5">
+            <name>Ireland</name>
+            <sort-name>Ireland</sort-name>
+        </area>
+        <life-span>
+            <begin>2006</begin>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="a8a31525-6e79-4e5d-9498-49a5b6412502" type="Group" ext:score="24">
+        <name>3 Daft Monkeys</name>
+        <sort-name>3 Daft Monkeys</sort-name>
+        <country>GB</country>
+        <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+        </area>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+        <tag-list>
+            <tag count="1">
+                <name>folk</name>
+            </tag>
+            <tag count="1">
+                <name>acoustic</name>
+            </tag>
+            <tag count="1">
+                <name>english</name>
+            </tag>
+        </tag-list>
+    </artist>
+    <artist id="34f256d5-9c60-4407-9b60-0242ed071410" type="Group" ext:score="24">
+        <name>united daft attack</name>
+        <sort-name>united daft attack</sort-name>
+        <country>JP</country>
+        <area id="2db42837-c832-3c27-b4a3-08198f75693c">
+            <name>Japan</name>
+            <sort-name>Japan</sort-name>
+        </area>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="468e3a19-944f-4172-9190-b8a53baa1c2f" type="Group" ext:score="18">
+        <name>Punk Bunny</name>
+        <sort-name>Punk Bunny</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="7152cd20-f4c1-4593-ac98-78180eea43a3" type="Group" ext:score="18">
+        <name>Hula Punk</name>
+        <sort-name>Hula Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="216874ba-ad65-47dc-8542-becc418d77c1" type="Group" ext:score="18">
+        <name>Punk Recruit</name>
+        <sort-name>Punk Recruit</sort-name>
+        <country>GB</country>
+        <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+            <name>United Kingdom</name>
+            <sort-name>United Kingdom</sort-name>
+        </area>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="b723bc81-33f1-4791-a228-2f2a9ed5cd83" type="Group" ext:score="18">
+        <name>Drunk Punk</name>
+        <sort-name>Drunk Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="14176034-3f42-4976-96b4-728cd1f90010" ext:score="18">
+        <name>Agent Punk</name>
+        <sort-name>Agent Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="da3b768d-c379-4e3c-9ebb-a86b8f356904" type="Person" ext:score="18">
+        <name>Peter Punk!</name>
+        <sort-name>Peter Punk!</sort-name>
+        <disambiguation>moniker of Peter van Bogaert</disambiguation>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="d3fbd605-f2e0-4b3b-aaf8-bbc110631da8" type="Group" ext:score="18">
+        <name>Finally Punk</name>
+        <sort-name>Finally Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="b3207704-1a66-4920-ac39-7852964bff96" ext:score="18">
+        <name>Punk Division</name>
+        <sort-name>Punk Division</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+        <alias-list>
+            <alias sort-name="Punk Devision">Punk Devision</alias>
+        </alias-list>
+    </artist>
+    <artist id="91e42817-2d63-4b1c-9d7e-8f863d4ec7b3" ext:score="18">
+        <name>Punk Kidz</name>
+        <sort-name>Punk Kidz</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="be3a1743-2793-4f0d-b233-d44c7f290097" ext:score="18">
+        <name>Planet Punk</name>
+        <sort-name>Planet Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="9d1de439-f375-436e-ad8d-34b942a30f54" ext:score="18">
+        <name>Punk Praise</name>
+        <sort-name>Punk Praise</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="ec8c5667-58c0-499f-bcb2-6721df08687b" ext:score="18">
+        <name>Punk Barbarians</name>
+        <sort-name>Punk Barbarians</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="a0f2efd8-ea5d-4bee-9e8d-31f768645c73" type="Group" ext:score="18">
+        <name>Techno-Punk</name>
+        <sort-name>Techno-Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="08f89a1b-1e00-4461-b199-5dba244e4f86" ext:score="18">
+        <name>Punk City</name>
+        <sort-name>Punk City</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="28d567e6-bedf-42da-a409-2c73c049f1ec" type="Group" ext:score="18">
+        <name>Punk Floyd</name>
+        <sort-name>Punk Floyd</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+    <artist id="b478274f-65c4-4670-9a5d-e431c3a65b18" type="Group" ext:score="18">
+        <name>Punk Freakz</name>
+        <sort-name>Punk Freakz</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+        <alias-list>
+            <alias sort-name="Punk Freak2">Punk Freak2</alias>
+        </alias-list>
+    </artist>
+    <artist id="b4f8ac3d-7f17-4cf1-baf9-5262c46bdc45" type="Group" ext:score="18">
+        <name>Phuture Punk</name>
+        <sort-name>Phuture Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+        <alias-list>
+            <alias sort-name="Phuture Phunk">Phuture Phunk</alias>
+        </alias-list>
+    </artist>
+    <artist id="3e3a68ca-8bc5-42c3-b0bc-55bb319f618b" type="Person" ext:score="18">
+        <name>Punk Anderson</name>
+        <sort-name>Anderson, Punk</sort-name>
+        <life-span>
+            <ended>false</ended>
+        </life-span>
+    </artist>
+</artist-list>
+</metadata>
+
